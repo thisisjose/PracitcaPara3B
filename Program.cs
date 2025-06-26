@@ -32,3 +32,5 @@ class Program
         persona1.CumplirAnios();
     }
 }
+//Para correr en Visual Code es dotnet run
+//para crear un programa es dotnet new console -n NombreProyecto
